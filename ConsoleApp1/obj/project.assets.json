@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dans-LT\\source\\repos\\Week3\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\Dans-LT\\source\\repos\\Week3\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\Dans-LT\\source\\repos\\Week3\\ConsoleApp1\\ArrayReview.csproj",
+      "projectName": "ArrayReview",
+      "projectPath": "C:\\Users\\Dans-LT\\source\\repos\\Week3\\ConsoleApp1\\ArrayReview.csproj",
       "packagesPath": "C:\\Users\\Dans-LT\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Dans-LT\\source\\repos\\Week3\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
